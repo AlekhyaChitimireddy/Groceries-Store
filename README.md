@@ -1,3 +1,3 @@
-# Groceries-Store
+# Store
 
 
